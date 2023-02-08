@@ -1,12 +1,8 @@
 package com.ing.baker.recipe.kotlindsl
 
 import org.junit.Test
+import org.junit.Assert.assertEquals
 
 class KotlinDslTest {
-
-    @Test
-    fun `should be able to have object as ingredient` () {
-        println("123123")
-    }
 
 }
